@@ -10,7 +10,7 @@ if __name__ == "__main__":
 
 
     if len(sys.argv) != 3:
-        print("Usage: python othello_ai.py <Session Name> <Username>")
+        print("Usage: python othello_player.py <Session Name> <Username>")
         sys.exit(1)
 
     tournament_name = sys.argv[1]
@@ -82,4 +82,3 @@ if __name__ == "__main__":
             else:
                 print('Await for your next match')
                 time.sleep(10)
-        
