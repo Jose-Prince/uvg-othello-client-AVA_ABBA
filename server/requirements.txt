@@ -1,0 +1,6 @@
+fastapi==0.110.1
+uvicorn[standard]==0.29.0
+pydantic
+motor
+pymongo
+python-dotenv

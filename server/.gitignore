@@ -1,0 +1,16 @@
+.vercel
+*.log
+*.pyc
+*.ipynb
+__pycache__
+
+# Environments 
+.env 
+.venv 
+env/ 
+venv/ 
+ENV/ 
+env.bak/ 
+venv.bak/ 
+frontend/testing.ipynb
+frontend/testing.ipynb
